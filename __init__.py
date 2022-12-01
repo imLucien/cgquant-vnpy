@@ -7,3 +7,6 @@ gettest_fenzhi='fenzhi'
 
 
 mastertest='sd21s'
+
+hotfix='sqq23d'
+
